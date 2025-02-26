@@ -17,7 +17,7 @@
 - UI/UX Testing (Matching websites with Figma Designs)
   
 ### **Automation**:
-- **TestNG**, **Selenium WebDriver** (Selenium Java)
+- **TestNG**, **Selenium WebDriver** (Selenium Java/Python)
 - Run pipelines on **Jenkins** / **Azure**
 - Cross-browser testing using **BrowserStack**
 
